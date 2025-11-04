@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ashish)](https://git.io/typing-svg)
 
+
+🎓 Electronics & Computer Science Undergrad | 🤖 AI/ML & DevOps Enthusiast | 💻 Full Stack Developer 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashiiish-88&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Ashiiish-88?label=Follow&style=social)](https://github.com/Ashiiish-88)
 
@@ -16,12 +20,12 @@ I'm a **versatile software engineer** passionate about building end-to-end solut
 From crafting elegant frontends to architecting robust backends, deploying with DevOps best practices, and integrating AI/ML capabilities — I love exploring the full spectrum of software development.  
 I approach problems with a strong foundation in data structures and algorithms, ensuring my solutions are not just functional, but optimized.
 
-- 🔭 Currently working on **advanced backend projects** and seeking **internship opportunities**  
-- 🌱 Deep diving into **TypeScript** and exploring its advanced patterns  
-- 🤖 Building **Fixit-AI** and exploring **open-source AI projects**  
-- 💻 Passionate about **Full Stack Development**, **AI/ML Integration**, **IoT**, and **DevOps**  
-- 👯 Looking to collaborate on **open-source projects** and **innovative web applications**  
-- ⚡ Fun fact: I don't just specialize in one area — **I build across the entire stack!**
+-  Currently working on **advanced backend projects** and seeking **internship opportunities**  
+-  Deep diving into **TypeScript** and exploring its advanced patterns  
+-  Exploring **open-source AI projects**  
+-  Passionate about **Full Stack Development**, **AI/ML Integration**, **IoT**, and **DevOps**  
+-  Looking to collaborate on **open-source projects** and **innovative web applications**  
+-  Fun fact: I don't just specialize in one area — **I build across the entire stack!**
 
 ---
 
