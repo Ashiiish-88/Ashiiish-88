@@ -122,7 +122,7 @@ I'm a **versatile software engineer** passionate about building end-to-end solut
 
 <div align="center">
 
-[![Fixit-AI](https://github-readme-stats.vercel.app/api/pin/?username=Ashiiish-88&repo=Fixit-AI&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Ashiiish-88/Fixit-AI)
+[![Fixit-AI](https://github-readme-stats.vercel.app/api/pin/?username=Ashiiish-88&repo=Fixit-AI&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Fixit-Local-AI-Agent/Fixit.AI)
 
 </div>
 
