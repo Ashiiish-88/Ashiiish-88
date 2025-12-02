@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ashish)](https://git.io/typing-svg)
 
 
-🎓 Electronics & Computer Science Undergrad | 🤖 AI/ML & DevOps Enthusiast | 💻 Full Stack Developer 
+🎓 Electronics & Computer Science Undergrad | 🤖 DevOps & AI/ML Enthusiast | 💻 Full Stack Developer 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashiiish-88&color=blueviolet&style=flat-square)
